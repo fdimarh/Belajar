@@ -28,6 +28,6 @@ The first public repo
 - Mulai bekerja dengan melihat issue tracker
 - tidak bekerja pada master, bekerja pada branch sendiri
 - push branch baru tersebut (atau mempush jika sudah commit)
-- merubah kode pada branch tersebut
+- merubah kode pada branch tersebut dan melakukan review pada kode tersebut
 - mengcommit kemudian mempush
 
