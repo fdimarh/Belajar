@@ -13,3 +13,8 @@ The first public repo
 
 # tambahan
 - pakai fitur dari github untuk langsung edit file
+
+# menggunakan git dengan pycharm
+- membuka project yang sudah di clone di cli
+- mengubah file
+- mengirim file ke github
