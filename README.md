@@ -18,6 +18,8 @@ The first public repo
 - membuka project yang sudah di clone di cli
 - mengubah file
 - mengirim file ke github
+- merubah di github
+- melakukan pull di dari lokal
 
 # perubahan melalui github
 - ada yang berubah
