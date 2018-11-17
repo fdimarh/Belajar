@@ -6,3 +6,7 @@ The first public repo
 - buat repo
 - copy alamat ssh
 - git clone alamat ssh
+- ubah file
+- tambahkan ke daftar file yang diubah dengan git add
+- simpan perubahan dengan git commit
+- kirim perubahan ke github dengan git push
