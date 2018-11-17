@@ -10,3 +10,6 @@ The first public repo
 - tambahkan ke daftar file yang diubah dengan git add
 - simpan perubahan dengan git commit
 - kirim perubahan ke github dengan git push
+
+# tambahan
+- pakai fitur dari github untuk langsung edit file
