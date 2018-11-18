@@ -23,3 +23,7 @@ The first public repo
 
 # perubahan melalui github
 - ada yang berubah
+
+# manfaat git
+- dengan git dan github kode akan aman dari hardisk rusak
+- memiliki repo github publik akan menjadikan sebagai portofolio
